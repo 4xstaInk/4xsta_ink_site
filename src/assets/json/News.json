@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"Politics",
+        "image":"../assets/images/what_people_are_saying/Meshullam.jpg",
+        "tab_click":"2",
+        "mini_description":"Stay up to date on government policy, elections, and political news that can impact the markets and your portfolio.",
+        "full_description": "Politics is the way that people living in groups make decisions. Politics is about making agreements between people so that they can live together in groups such as tribes, cities, or countries. Politicians, and sometimes other people, may get together to form a government."
+    },
+    {
+        "id": 2,
+        "name":"Life",
+        "image":"../assets/images/what_people_are_saying/Meshullam.jpg",
+        "tab_click":"3",
+        "mini_description":"Real people, real stories. The very best human interest tales from around the globe that will move and amuse you in equal measure.",
+        "full_description": "life is the way existing or happening in realityexisting or happening in reality. Politics is about making agreements between people so that they can live together in groups such as tribes, cities, or countries. Politicians, and sometimes other people, may get together to form a government."
+    },
+    {
+        "id": 3,
+        "name":"Health",
+        "image":"../assets/images/what_people_are_saying/Meshullam.jpg",
+        "tab_click":"4",
+        "mini_description":"Medical news and health news headlines posted throughout the day, every day.",
+        "full_description": "Health news reporting (as opposed to peer-review publication) of medical news and features. Medical journalism is diverse, and reflects its audience. The main division is into (1) medical journalism for the general public, which includes medical coverage in general news publications and in specialty medical publications, and (2) medical journalism for doctors and other professionals, which often appears in peer-reviewed journals."
+    }
+]

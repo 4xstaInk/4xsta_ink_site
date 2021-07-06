@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":"Meshullam Joshie Mulenga",
+        "image":"../assets/images/what_people_are_saying/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    },
+    {
+        "id": 2,
+        "name":"Machir Mulenga",
+        "image":"../images/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    },
+    {
+        "id": 3,
+        "name":"William Ariel Mulenga",
+        "image":"../images/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    },
+    {
+        "id": 4,
+        "name":"Demitrius Mulenga",
+        "image":"../images/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    },
+    {
+        "id": 5,
+        "name":"Sherish Mulenga",
+        "image":"../images/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    },
+    {
+        "id": 6,
+        "name":"Vashti Mulenga",
+        "image":"../images/Meshullam.jpg",
+        "said": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto"
+    }
+]

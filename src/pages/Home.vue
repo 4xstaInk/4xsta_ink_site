@@ -1,19 +1,28 @@
 <template>
     <div>
-        <!-- <NavBar /> -->
         <Header />
+        <WhatWeOffer id="services" />
+        <Article />
+        <Timeline />
+        <Covid />
         <Review />
     </div>
 </template>
 
 <script>
-import NavBar from "../components/NavBar.vue";
 import Header from "../components/Header.vue";
+import WhatWeOffer from "../components/WhatWeOffer.vue";
+import Timeline from "../components/Timeline.vue";
+import Article from "../components/Article.vue";
+import Covid from "../components/news/Covid.vue";
 import Review from "../components/Review.vue";
 export default {
     components: {
-        NavBar,
         Header,
+        WhatWeOffer,
+        Article,
+        Timeline,
+        Covid,
         Review
     },
     setup () {
