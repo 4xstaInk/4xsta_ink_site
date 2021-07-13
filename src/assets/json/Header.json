@@ -25,5 +25,14 @@
         "link":"/social",
         "mini_description":"Stay up to date on government policy, elections, and political news that can impact the markets and your portfolio.",
         "full_description": "Health news reporting (as opposed to peer-review publication) of medical news and features. Medical journalism is diverse, and reflects its audience. The main division is into (1) medical journalism for the general public, which includes medical coverage in general news publications and in specialty medical publications, and (2) medical journalism for doctors and other professionals, which often appears in peer-reviewed journals."
+    },
+    {
+        "id": 4,
+        "image_id": "four",
+        "name":"COVID 19",
+        "image":"../assets/images/what_people_are_saying/Meshullam.jpg",
+        "link":"/covid19",
+        "mini_description":"Stay up to date on covid 19",
+        "full_description": "Health news reporting (as opposed to peer-review publication) of medical news and features. Medical journalism is diverse, and reflects its audience. The main division is into (1) medical journalism for the general public, which includes medical coverage in general news publications and in specialty medical publications, and (2) medical journalism for doctors and other professionals, which often appears in peer-reviewed journals."
     }
 ]
