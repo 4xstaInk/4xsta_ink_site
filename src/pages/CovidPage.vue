@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-white">
     <div
       id="header"
       class="bg-cover bg-center h-auto text-white py-24 px-10 object-fill"
@@ -25,7 +25,7 @@
               py-1
             "
           >
-            WORLDWIDE
+            WORLDWIDE {{hallo}}
           </a>
         </p>
         <p class="text-lg font-bold">World Covid-19 Statistics</p>
@@ -43,7 +43,8 @@
     <header class="flex-none flex h-16 bg-gray-100 border-t px-4 items-center">
       <h1 class="text-2xl text-black-500 font-bold mt-2">List of Countries</h1>
     </header>
-    <CovidTable />
+    <AllCovidCountries />
+    <!-- <CovidTable /> -->
   </div>
 </template>
 
@@ -52,18 +53,20 @@ import axios from "axios";
 import moment from "moment";
 
 import CovidTable from "../components/covid/CovidTable.vue";
+import AllCovidCountries from "../components/covid/AllCovidCountries.vue";
 import AllCovidData from "../components/covid/AllCovidData.vue";
 export default {
   components: {
     CovidTable,
-    AllCovidData
+    AllCovidData,
+    AllCovidCountries
   },
   setup() {
     return {};
   },
   data() {
     return {
-   
+    
     };
   },
   created() {

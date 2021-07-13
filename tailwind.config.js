@@ -26,4 +26,7 @@ module.exports = {
     require('@tailwindcss/aspect-ratio'),
     require('tailwind-scrollbar')
   ],
+  corePlugins:{
+    outline:false
+  }
 }

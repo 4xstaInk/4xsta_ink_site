@@ -5,7 +5,7 @@ import Home from "./pages/Home.vue";
 const News = () => import("./pages/News.vue");
 const Covid19 = () => import("./pages/CovidPage.vue");
 const tester = () => import("./pages/testerpage.vue");
-
+const PageNotFound = () => import("./pages/404.vue");
 
 const routes = [
   {
@@ -30,7 +30,8 @@ const routes = [
   {
     path:"/tester",
     name:"tester",
-    component:tester
+    component:tester,
+    props: true
   }
 ];
 

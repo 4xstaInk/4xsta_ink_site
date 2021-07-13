@@ -36,6 +36,7 @@
                 transition-shadow
                 duration-300
                 ease-in-out
+                cursor-pointer
               "
             >
               <h3 class="text-2xl">
@@ -63,6 +64,7 @@
                 transition-shadow
                 duration-300
                 ease-in-out
+                cursor-pointer
               "
             >
               <h3 class="text-2xl">
@@ -91,6 +93,7 @@
                 transition-shadow
                 duration-300
                 ease-in-out
+                cursor-pointer
               "
             >
               <h3 class="text-2xl">
@@ -120,6 +123,7 @@
                 transition-shadow
                 duration-300
                 ease-in-out
+                cursor-pointer
               "
             >
               <h3 class="text-2xl">

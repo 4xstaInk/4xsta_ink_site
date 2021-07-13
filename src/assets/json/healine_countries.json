@@ -1,0 +1,388 @@
+[
+    {
+      id: 1,
+      name: 'United Arab Emirates',
+      iso: 'ae',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ae.svg',
+    },
+    {
+      id: 2,
+      name: 'Argentina',
+      iso: 'ar',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ar.svg',
+    },
+    {
+      id: 3,
+      name: ' Austria',
+      iso: 'at',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/at.svg',
+    },
+    {
+      id: 4,
+     name: ' Australia',
+      iso: 'au',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/au.svg',
+    },
+    {
+      id: 5,
+      name: ' Austria',
+      iso: 'at',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/at.svg',
+    },
+    {
+      id: 6,
+      name: ' Belgium',
+      iso: 'be',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/be.svg',
+    },
+    {
+      id: 7,
+      name: ' Bulgaria',
+      iso: 'bg',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/bg.svg',
+    },
+    {
+      id: 8,
+      name: ' Brazil',
+      iso: 'br',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/br.svg',
+    },
+    {
+      id: 9,
+      name: ' Canada',
+      iso: 'ca',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ca.svg',
+    },
+    {
+      id: 10,
+      name: ' Switzerland',
+      iso: 'ch',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ch.svg',
+    },
+    {
+      id: 11,
+      name: ' China',
+      iso: 'cn',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/cn.svg',
+    },
+    {
+      id: 12,
+      name: ' Colombia',
+      iso: 'co',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/co.svg',
+    },
+    {
+      id: 13,
+      name: ' Cuba',
+      iso: 'cu',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/cu.svg',
+    },
+    {
+      id: 14,
+      name: ' Czechia',
+      iso: 'cz',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/cz.svg',
+    },
+    {
+      id: 15,
+      name: ' German',
+      iso: 'de',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/de.svg',
+    },
+    {
+      id: 16,
+      name: ' Egypt',
+      iso: 'eg',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/eg.svg',
+    },
+    {
+      id: 17,
+      name: ' France',
+      iso: 'fr',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/fr.svg',
+    },
+    {
+      id: 18,
+      name: ' United Kingdom of Great Britain and Northern Ireland',
+      iso: 'gb',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/gb.svg',
+    },
+    {
+      id: 19,
+      name: ' Greece',
+      iso: 'gr',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/gr.svg',
+    },
+    {
+      id: 20,
+      name: ' Hong Kong',
+      iso: 'hk',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/hk.svg',
+    },
+    {
+      id: 21,
+      name: ' Hungary',
+      iso: 'hu',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/hu.svg',
+    },
+    {
+      id: 22,
+      name: ' Indonesia',
+      iso: 'id',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/id.svg',
+    },
+    {
+      id: 23,
+      name: ' Ireland',
+      iso: 'ie',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ie.svg',
+    },
+    {
+      id: 24,
+      name: ' Isreal',
+      iso: 'il',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/il.svg',
+    },
+    {
+      id: 25,
+      name: ' India',
+      iso: 'in',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/in.svg',
+    },
+    {
+      id: 26,
+      name: ' Italy',
+      iso: 'it',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/it.svg',
+    },
+    {
+      id: 27,
+      name: ' Japan',
+      iso: 'jp',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/jp.svg',
+    },
+    {
+      id: 28,
+      name: ' Korea',
+      iso: 'kr',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/kr.svg',
+    },
+    {
+      id: 29,
+      name: ' Lithuania',
+      iso: 'lt',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/lt.svg',
+    },
+    {
+      id: 30,
+      name: ' Latvia',
+      iso: 'lv',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/lv.svg',
+    },
+    {
+      id: 31,
+      name: ' Morocco',
+      iso: 'ma',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ma.svg',
+    },
+    {
+      id: 32,
+      name: ' Mexico',
+      iso: 'mx',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/mx.svg',
+    },
+    {
+      id: 33,
+      name: ' Malaysia',
+      iso: 'my',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/my.svg',
+    },
+    {
+      id: 34,
+      name: ' Nigeria',
+      iso: 'ng',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ng.svg',
+    },
+    {
+      id: 35,
+      name: ' Netherlands',
+      iso: 'nl',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/nl.svg',
+    },
+    {
+      id: 36,
+      name: ' Norway',
+      iso: 'no',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/no.svg',
+    },
+    {
+      id: 37,
+      name: ' New Zealand',
+      iso: 'nz',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/nz.svg',
+    },
+    {
+      id: 38,
+      name: ' Philippines',
+      iso: 'ph',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ph.svg',
+    },
+    {
+      id: 39,
+      name: ' Poland',
+      iso: 'pl',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/pl.svg',
+    },
+    {
+      id: 40,
+      name: ' Portugal',
+      iso: 'pt',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/pt.svg',
+    },
+    {
+      id: 41,
+      name: ' Romania',
+      iso: 'ro',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ro.svg',
+    },
+    {
+      id: 41,
+      name: ' Serbia',
+      iso: 'rs',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/rs.svg',
+    },
+    {
+      id: 42,
+      name: ' Russia',
+      iso: 'ru',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ru.svg',
+    },
+    {
+      id: 43,
+      name: ' Saudi Arabia',
+      iso: 'sa',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/sa.svg',
+    },
+    {
+      id: 44,
+      name: ' Sweden',
+      iso: 'se',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/se.svg',
+    },
+    {
+      id: 45,
+      name: ' Singapore',
+      iso: 'sg',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/sg.svg',
+    },
+    {
+      id: 46,
+      name: ' slovenia',
+      iso: 'si',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/si.svg',
+    },
+    {
+      id: 47,
+      name: ' Slovakia',
+      iso: 'sk',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/sk.svg',
+    },
+    {
+      id: 48,
+      name: ' Thailand',
+      iso: 'th',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/th.svg',
+    },
+    {
+      id: 49,
+      name: ' Turkey',
+      iso: 'tr',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/tr.svg',
+    },{
+      id: 50,
+      name: ' Taiwan',
+      iso: 'tw',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/tw.svg',
+    },
+    {
+      id: 51,
+      name: ' Ukraine',
+      iso: 'ua',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ua.svg',
+    },
+    {
+      id: 52,
+      name: ' United States America',
+      iso: 'us',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/us.svg',
+    },
+    {
+      id: 53,
+      name: ' Venezuela',
+      iso: 've',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/ve.svg',
+    },
+    {
+      id: 54,
+      name: ' South Africa',
+      iso: 'za',
+      avatar:
+        'https://s3.amazonaws.com/rld-flags/za.svg',
+    },
+  
+  
+  ]

@@ -35,6 +35,7 @@
           )
         }}
       </h1>
+
         <div
         @click="showModal = true"
         class="
@@ -312,7 +313,10 @@ export default {
         allCovidData(){
             return this.$store.state.covid.all_covid_data
         }
-    }
+    },
+    methods: {
+     
+    },
 }
 </script>
 

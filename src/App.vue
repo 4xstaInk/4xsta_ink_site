@@ -3,6 +3,7 @@
   <div>
   <NavBar />
   <router-view />
+  <ShoppingCartFloating />
   <FloatingButtton />
   <Footer />
 </div>
@@ -13,6 +14,7 @@
   import NavBar from "./components/NavBar.vue";
   import Footer from "./components/Footer.vue";
   import FloatingButtton from "./components/widgets/FloatinButton.vue";
+  import ShoppingCartFloating from "./components/widgets/ShoppingCartFloating.vue";
 
 
 
@@ -21,7 +23,8 @@ export default {
   components: {
     NavBar,
     Footer,
-    FloatingButtton
+    FloatingButtton,
+    ShoppingCartFloating
   },
   data(){
     return{

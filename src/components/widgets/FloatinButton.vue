@@ -5,7 +5,9 @@
     <div
     
     >
-        <div class="block w-16 h-16 bg-gray-100 p-2 rounded-full transition-all shadow-lg hover:shadow-lg transform hover:scale-110 hover:rotate-12">
+        <div
+        title="Click to view"
+         class="block w-16 h-16 bg-gray-100 p-2 rounded-full transition-all shadow-lg hover:shadow-lg transform hover:scale-110 hover:rotate-12">
         <img 
         src="../../assets/images/4xstaWebLogo.png" alt="" 
         title=""
@@ -28,8 +30,9 @@
          role="dialog" 
          v-if="showModal"
          >
-         <div>
-             <FloatingButtonContent />
+          
+          <div>
+                     <FloatingButtonContent />
          </div>
         <div class="mt-5">
         <span 
@@ -54,15 +57,24 @@ export default {
 
         return {}
     },
+    computed: {
+   
+},
     data(){
         return{
             showModal: false
         }
     },
+    methods:{
+     
+    }
 }
 </script>
-
 <style scoped>
+.removeBtn {
+    margin-right: 1rem;
+    color: red;
+}
 html {
   height: 100%;
   background: #FFF;

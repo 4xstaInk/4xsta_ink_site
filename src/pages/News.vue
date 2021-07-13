@@ -1,10 +1,10 @@
 <template>
-    <div class="bg-white">
+		<div class="bg-white w-12/12">
 <div class="flex flex-wrap">
-  <Headline />
-  </div>
-  <Covid />
-    </div>
+	<Headline />
+	</div>
+	<Covid />
+		</div>
 </template>
 
 <script>
@@ -17,32 +17,32 @@ import PoliticsHeadline from "../components/news/Headlines.vue";
 
 import Data from "../assets/json/News.json";
 export default {
-    components: {
-    Carousel,
-    Slide,
-    Pagination,
-    Navigation,
-    // components
-    Covid,
-    Headline,
-    PoliticsHeadline
-  },
-    setup () {
-        
+		components: {
+		Carousel,
+		Slide,
+		Pagination,
+		Navigation,
+		// components
+		Covid,
+		Headline,
+		PoliticsHeadline
+	},
+		setup () {
 
-        return {}
-    },
-    data() {
-    return {
-      openTab: 1,
-      Data:Data
-    }
-  },
-    methods: {
-    toggleTabs: function(tabNumber){
-      this.openTab = tabNumber
-    }
-  }
+
+				return {}
+		},
+		data() {
+		return {
+			openTab: 1,
+			Data:Data
+		}
+	},
+		methods: {
+		toggleTabs: function(tabNumber){
+			this.openTab = tabNumber
+		}
+	}
 }
 </script>
 
